@@ -7,4 +7,4 @@ branding:
 
 runs:
   using: 'docker'
-  image: 'gableroux/unity3d'
+  image: 'gableroux/unity3d:latest'
