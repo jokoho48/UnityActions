@@ -1,0 +1,10 @@
+name: 'UnityBuild'
+description: 'Build Unity Project'
+
+branding:
+  icon: check-square
+  color: orange
+
+runs:
+  using: 'docker'
+  image: 'gableroux/unity3d'
